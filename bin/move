@@ -2,7 +2,7 @@
 
 require_relative '../lib/move.rb'
 
-board = new Array[9, " "]
+board = Array.new[9, " "]
 
 
 
